@@ -13,6 +13,6 @@ public class HelloGit {
     
     public static void main(String[] args) {
         
-        System.out.println("Hello GIT Jenkins");
+        System.out.print("Hello GIT Jenkins");
     }
 }
